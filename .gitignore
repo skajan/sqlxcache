@@ -1,0 +1,16 @@
+# ide folder
+.idea
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+
+#  go coverage tool output
+*.out
+
+# go workspace file
+go.work
+
+# test output
+*.test
