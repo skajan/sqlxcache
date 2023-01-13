@@ -6,7 +6,7 @@
 <h4 align="center">A simple cache for sqlx.</h4>
 
 <p align="center">
-<b>sqlxcache</b> is a simple wrapper for the sqlx library to store select queries in memory and reduce database load.
+<b>sqlxcache</b> is a simple wrapper for the <a href="https://github.com/jmoiron/sqlx">sqlx</a> library to store select queries in memory and reduce database load.
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
 
 ## Usage
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```go
 // import
